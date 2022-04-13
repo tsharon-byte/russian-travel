@@ -1,0 +1,10 @@
+.cover {
+    margin-top: 92px;
+    text-align: center;
+}
+
+@media (max-width: 425px) {
+    .cover {
+        margin-top: 66px;
+    }
+}

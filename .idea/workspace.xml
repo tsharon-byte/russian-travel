@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e2b6b57d-809b-4d53-bc13-46c93a1dec2c" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="275pqiza7z7DGZQVTdLiksoIF4k" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalResources" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Tanya\GIT\russian-travel-mine\blocks\cover" />
+      <recent name="C:\Tanya\GIT\russian-travel-mine\blocks\place" />
+      <recent name="C:\Tanya\GIT\russian-travel-mine\blocks\description" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2b6b57d-809b-4d53-bc13-46c93a1dec2c" name="Changes" comment="" />
+      <created>1648619995620</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648619995620</updated>
+      <workItem from="1648619997193" duration="1565000" />
+      <workItem from="1648631379853" duration="6834000" />
+      <workItem from="1648711328601" duration="14000" />
+      <workItem from="1648874439374" duration="2575000" />
+      <workItem from="1648969827575" duration="6513000" />
+      <workItem from="1649051314024" duration="12417000" />
+      <workItem from="1649136641984" duration="4165000" />
+      <workItem from="1649156770978" duration="7000" />
+      <workItem from="1649225039272" duration="5585000" />
+      <workItem from="1649326738684" duration="6876000" />
+      <workItem from="1649386968171" duration="3273000" />
+      <workItem from="1649401941316" duration="4061000" />
+      <workItem from="1649658098232" duration="6000" />
+      <workItem from="1649741757902" duration="4000" />
+      <workItem from="1649849923002" duration="1526000" />
+      <workItem from="1649856837926" duration="243000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
