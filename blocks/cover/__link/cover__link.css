@@ -11,12 +11,6 @@
     position: relative;
     gap: 32px;
     min-height: 740px;
-    opacity: .3;
-    transition: opacity 1s ease-in-out;
-}
-
-.cover__link:hover {
-    opacity: .8;
 }
 
 @media screen and (min-width: 1280px) {

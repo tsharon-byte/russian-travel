@@ -11,9 +11,3 @@
     -moz-text-size-adjust: 100%;
     text-rendering: optimizeLegibility;
 }
-
-@supports (font-variation-settings: normal) {
-    .root {
-        font-family: 'Inter var', sans-serif;
-    }
-}

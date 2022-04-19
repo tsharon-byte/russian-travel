@@ -1,5 +1,6 @@
 .place__title {
     box-sizing: border-box;
+    font-weight: 900;
 }
 
 @media screen and (min-width: 1280px) {

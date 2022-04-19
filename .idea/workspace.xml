@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e2b6b57d-809b-4d53-bc13-46c93a1dec2c" name="Changes" comment="" />
+    <list default="true" id="e2b6b57d-809b-4d53-bc13-46c93a1dec2c" name="Changes" comment="Первый коммит">
+      <change afterPath="$PROJECT_DIR$/vendor/Inter/font.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/cover/__link/cover__link.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/cover/__link/cover__link.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/cover/__overlay/cover__overlay.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/cover/__overlay/cover__overlay.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/cover/__subtitle/cover__subtitle.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/cover/__subtitle/cover__subtitle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/cover/__title/cover__title.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/cover/__title/cover__title.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/description/__caption/description__caption.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/description/__caption/description__caption.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/description/__statistics/description__statistics.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/description/__statistics/description__statistics.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/description/__text/description__text.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/description/__text/description__text.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/description/__title/description__title.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/description/__title/description__title.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/description/description.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/description/description.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/footer/__links/footer__links.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/footer/__links/footer__links.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/header/__lang-tab/header__lang-tab.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/__lang-tab/header__lang-tab.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/hero/__subtitle/hero__subtitle.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/hero/__subtitle/hero__subtitle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/hero/__title/hero__title.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/hero/__title/hero__title.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/place/__description/place__description.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/place/__description/place__description.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/place/__link/place__link.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/place/__link/place__link.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/place/__title/place__title.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/place/__title/place__title.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/place/__url-heading/place__url-heading.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/place/__url-heading/place__url-heading.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/place/place.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/place/place.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/root/root.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/root/root.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +38,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="275pqiza7z7DGZQVTdLiksoIF4k" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -23,12 +50,17 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/vendor/Inter Web" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="preferences.externalResources" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Tanya\GIT\russian-travel\vendor\Inter Web" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Tanya\GIT\russian-travel\vendor" />
       <recent name="C:\Tanya\GIT\russian-travel-mine\blocks\cover" />
       <recent name="C:\Tanya\GIT\russian-travel-mine\blocks\place" />
       <recent name="C:\Tanya\GIT\russian-travel-mine\blocks\description" />
@@ -63,6 +95,18 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

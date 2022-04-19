@@ -1,5 +1,6 @@
 .header__lang-tab {
     font-size: 24px;
+    font-weight: 400;
     line-height: 28px;
 }
 
@@ -8,4 +9,9 @@
         font-size: 18px;
         line-height: 20px;
     }
+}
+
+.header__lang-tab:hover {
+    cursor: pointer;
+    opacity: .8;
 }

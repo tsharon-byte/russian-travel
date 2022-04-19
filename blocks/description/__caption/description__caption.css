@@ -5,6 +5,7 @@
     padding-top: 8px;
     font-size: 10px;
     line-height: 1.16;
+    font-weight: 400;
 }
 
 @media (max-width: 1023px) and (min-width: 768px) {
