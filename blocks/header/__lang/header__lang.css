@@ -1,7 +1,8 @@
 .header__lang {
     margin: 0;
+    padding: 0;
+    list-style: none;
     display: flex;
     flex-direction: row;
-    list-style: none;
     gap: 18px;
 }

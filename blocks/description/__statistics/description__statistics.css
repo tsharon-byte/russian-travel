@@ -1,17 +1,11 @@
 .description__statistics {
     font-size: 12px;
-    font-weight: 700;
+    font-weight: 400;
     list-style: none;
     margin: 0;
     padding: 33px 0 0;
     line-height: 1.5;
-}
-
-@media (max-width: 1023px) and (min-width: 768px) {
-    .description__statistics {
-        padding-left: 24px;
-        padding-right: 24px;
-    }
+    box-sizing: border-box;
 }
 
 @media (max-width: 425px) {

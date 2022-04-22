@@ -1,6 +1,8 @@
 .cover {
     margin-top: 92px;
     text-align: center;
+    box-sizing: border-box;
+    max-width: 100%;
 }
 
 @media (max-width: 425px) {

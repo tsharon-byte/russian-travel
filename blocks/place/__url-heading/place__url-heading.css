@@ -4,12 +4,11 @@
     line-height: 1.7;
     letter-spacing: 2px;
     font-weight: 400;
+    margin: 0;
 }
 
-@media (max-width: 767px) {
+@media (max-width: 425px) {
     .place__url-heading {
-        font-size: 12px;
         line-height: 12px;
-        letter-spacing: 2px;
     }
 }

@@ -1,21 +1,21 @@
-.description__caption {
+.hero__caption {
     text-transform: uppercase;
     letter-spacing: 1.5px;
     margin: 8px 0 0 0;
-    padding-top: 8px;
+    box-sizing: border-box;
     font-size: 10px;
     line-height: 1.16;
     font-weight: 400;
 }
 
-@media (max-width: 1023px) and (min-width: 768px) {
-    .description__caption {
+@media (max-width: 1023px) {
+    .hero__caption {
         padding: 0 24px;
     }
 }
 
 @media (max-width: 425px) {
-    .description__caption {
-        padding: 8px 16px 0 16px;
+    .hero__caption {
+        padding: 0 16px;
     }
 }

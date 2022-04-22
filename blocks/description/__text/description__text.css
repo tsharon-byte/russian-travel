@@ -7,13 +7,6 @@
     font-weight: 400;
 }
 
-@media (max-width: 1023px) and (min-width: 768px) {
-    .description__text {
-        padding-left: 24px;
-        padding-right: 24px;
-    }
-}
-
 @media (max-width: 425px) {
     .description__text {
         padding-left: 16px;

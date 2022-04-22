@@ -6,10 +6,9 @@
     font-weight: 900;
 }
 
-@media (max-width: 1023px) and (min-width: 768px) {
+@media (max-width: 1023px){
     .description__title {
-        padding-left: 24px;
-        padding-right: 24px;
+        padding-top: 88px;
     }
 }
 

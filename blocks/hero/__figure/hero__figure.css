@@ -1,0 +1,26 @@
+.hero__figure {
+    margin: 0;
+    padding: 64px 0 0;
+    max-width: 984px;
+}
+
+@media screen and (max-width: 1279px) {
+    .hero__figure {
+        padding: 56px 0 0;
+    }
+}
+
+@media screen and (max-width: 1023px) {
+    .hero__figure {
+        position: relative;
+        width: calc(100% + 24px * 2);
+        left: 0;
+    }
+}
+
+@media (max-width: 425px) {
+    .hero__figure {
+        width: 100%;
+        padding: 40px 0 0;
+    }
+}
