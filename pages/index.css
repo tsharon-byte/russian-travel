@@ -38,3 +38,6 @@
 @import url(../blocks/place/__url-heading/place__url-heading.css);
 @import url(../blocks/footer/__copyright/footer__copyright.css);
 @import url(../blocks/list/list.css);
+@import url(../blocks/photos/photos.css);
+@import url(../blocks/content/content.css);
+@import url(../blocks/navigation/navigation.css);

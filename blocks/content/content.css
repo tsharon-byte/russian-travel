@@ -1,0 +1,17 @@
+.content {
+    display: flex;
+    flex-direction: column;
+    gap: 92px;
+}
+
+@media (max-width: 1023px) {
+    .content {
+        gap: 88px;
+    }
+}
+
+@media (max-width: 767px) {
+    .content {
+        gap: 64px;
+    }
+}
